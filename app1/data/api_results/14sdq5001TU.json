@@ -1,0 +1,242 @@
+{
+    "_type": "SearchResponse",
+    "queryContext": {
+        "originalQuery": "Give product specifications for 14sdq5001TU"
+    },
+    "webPages": {
+        "webSearchUrl": "https://www.bing.com/search?q=Give+product+specifications+for+14sdq5001TU",
+        "totalEstimatedMatches": 2120000,
+        "value": [
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+                "name": "HP 14 inch Laptop 14s-dq5001TU",
+                "url": "https://www.hp.com/id-en/shop/hp-laptop-14s-dq5001tu-762u6pa.html",
+                "about": [
+                    {
+                        "_type": "CreativeWork",
+                        "aggregateRating": {
+                            "ratingValue": 5,
+                            "bestRating": 5
+                        }
+                    }
+                ],
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.hp.com/id-en/shop/hp-laptop-14s-dq5001tu-762u6pa.html",
+                "snippet": "Windows 11 Home Single Language. 8 GB DDR4 RAM. 512 GB SSD Hard drive. 14 inch FHD IPS. Intel\u00ae Iris\u00ae X\u1d49 Graphics. Backlit keyboard, Bluetooth, Full HD, Solid State Drive (SSD) (See more Specifications) Included: Microsoft Office Home and Student 2021 worth IDR 1,899,000 (Lifetime) Bag.",
+                "dateLastCrawled": "2024-03-13T10:28:00.0000000Z",
+                "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Give+product+specifications+for+14sdq5001TU&d=4609565435625661&mkt=en-IN&setlang=en-US&w=3-aTmozL_j4wMAkvX-wlZfjdESrPYLdl",
+                "language": "en",
+                "isNavigational": true,
+                "richFacts": [
+                    {
+                        "label": {
+                            "text": "Brand"
+                        },
+                        "items": [
+                            {
+                                "text": "HP"
+                            }
+                        ],
+                        "hint": {
+                            "text": "BASE:GENERICFACT"
+                        }
+                    }
+                ],
+                "noCache": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+                "name": "HP Notebook - 14s-dq1100tu Product Specifications",
+                "url": "https://support.hp.com/in-en/document/c06676523",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://support.hp.com/in-en/document/c06676523",
+                "snippet": "Product number. 193U0PA. Product name. HP Notebook - 14s-dq1100tu. Microprocessor. Intel\u00ae Core\u2122 i7-1065G7 (1.3 GHz base frequency, up to 3.9 GHz with Intel\u00ae Turbo Boost Technology, 8 MB L3 cache, 4 cores) Chipset. Intel\u00ae Integrated SoC.",
+                "dateLastCrawled": "2024-01-01T12:02:00.0000000Z",
+                "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Give+product+specifications+for+14sdq5001TU&d=4953227241867604&mkt=en-IN&setlang=en-US&w=Q_WDBFrv6QjMd8uExLw4qi6R2KHTUJtQ",
+                "language": "en",
+                "isNavigational": false,
+                "richFacts": [
+                    {
+                        "label": {
+                            "text": "Chipset"
+                        },
+                        "items": [
+                            {
+                                "text": "Intel\u00ae Integrated SoC"
+                            }
+                        ],
+                        "hint": {
+                            "text": "BASE:GENERICFACT"
+                        }
+                    },
+                    {
+                        "label": {
+                            "text": "Memory, standard"
+                        },
+                        "items": [
+                            {
+                                "text": "8 GB DDR4-2666 SDRAM (onboard)"
+                            }
+                        ],
+                        "hint": {
+                            "text": "BASE:GENERICFACT"
+                        }
+                    },
+                    {
+                        "label": {
+                            "text": "Product name"
+                        },
+                        "items": [
+                            {
+                                "text": "HP Notebook-14s-dq1100tu"
+                            }
+                        ],
+                        "hint": {
+                            "text": "BASE:GENERICFACT"
+                        }
+                    },
+                    {
+                        "label": {
+                            "text": "Product number"
+                        },
+                        "items": [
+                            {
+                                "text": "193U0PA"
+                            }
+                        ],
+                        "hint": {
+                            "text": "BASE:GENERICFACT"
+                        }
+                    }
+                ],
+                "noCache": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+                "name": "HP Laptop 14s-dq0513TU Product Specifications | HP\u00ae Support",
+                "url": "https://support.hp.com/in-en/document/c08626220",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://support.hp.com/in-en/document/c08626220",
+                "snippet": "84M85PA. Product name. HP Laptop 14s-dq0513TU. Microprocessor. Intel\u00ae Celeron\u00ae N4120 (up to 2.6 GHz burst frequency, 4 MB L2 cache, 4 cores, 4 threads) Memory, standard. 4 GB DDR4-2400 MHz RAM (1 x 4 GB)",
+                "dateLastCrawled": "2024-03-02T07:45:00.0000000Z",
+                "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Give+product+specifications+for+14sdq5001TU&d=4892182870703171&mkt=en-IN&setlang=en-US&w=mDz8u-WO3d6wtT1fA_1G4rnpa6nXl22w",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+                "name": "HP 14s-dq5001TU /Core i5-1235U/8GB/512GB SSD/14\u2033 FHD/Win 11 ... - SoftCom",
+                "url": "https://www.softcom.co.id/product/hp-14s-dq5001tu-core-i5-1235u-8gb-512gb-ssd-14-fhd-win-11-homeohs-2021-silver/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.softcom.co.id/product/hp-14s-dq5001tu-core-i5-1235u-8gb-512gb-ssd-14-fhd...",
+                "snippet": "Spesifikasi : Processor : Intel Core i5-1235U Up To 4,4Ghz 10 Core 12 Threads Display : 14 inch diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC Ram : 8 GB DDR4-3200 MHz RAM (2 x 4 GB) Storage : 512 GB PCIe\u00ae NVMe\u2122 M.2 SSD Graphics : Intel Xe Graphics Keyboard : Full-size, backlit, natural silver keyboard Wireless : Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi\u00ae and Bluetooth\u00ae 5 combo Ports : 1 SuperSpeed USB Type-C\u00ae 5Gbps signaling rate; 2 SuperSpeed USB ...",
+                "dateLastCrawled": "2024-03-12T01:42:00.0000000Z",
+                "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Give+product+specifications+for+14sdq5001TU&d=4853382139299335&mkt=en-IN&setlang=en-US&w=4dFOblLycoafEELANFcOc34EH7hy8e5U",
+                "language": "id",
+                "isNavigational": false,
+                "noCache": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+                "name": "HP Laptop 35.6 cm 14s-dq5007TU",
+                "url": "https://www.hp.com/in-en/shop/hp-laptop-14s-dq5007tu-695r9pa.html",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.hp.com/in-en/shop/hp-laptop-14s-dq5007tu-695r9pa.html",
+                "snippet": "Add Warranty+Antivirus: From \u20b92999.00. Get the 2 years of extended warranty and 3 years anti-virus at \u20b92999.00 OR the Peace of Mind offer (2 years of extended warranty, 3 years anti-virus and 3 years accidental damage protection) at \u20b94499.00 with your HP tech purchase.",
+                "dateLastCrawled": "2024-03-12T21:22:00.0000000Z",
+                "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Give+product+specifications+for+14sdq5001TU&d=4958548373733694&mkt=en-IN&setlang=en-US&w=qBDBh-HTGvbO40cut2BY8Gkskm5ULC2M",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false
+            }
+        ]
+    },
+    "relatedSearches": {
+        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+        "value": [
+            {
+                "text": "hp 14s dq5001tu",
+                "displayText": "hp 14s dq5001tu",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+14s+dq5001tu"
+            },
+            {
+                "text": "14s dq1100tu",
+                "displayText": "14s dq1100tu",
+                "webSearchUrl": "https://www.bing.com/search?q=14s+dq1100tu"
+            },
+            {
+                "text": "hp 14s dq5001tu driver",
+                "displayText": "hp 14s dq5001tu driver",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+14s+dq5001tu+driver"
+            },
+            {
+                "text": "hp laptop 14s dq0513tu",
+                "displayText": "hp laptop 14s dq0513tu",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+laptop+14s+dq0513tu"
+            },
+            {
+                "text": "hp dq5001tu",
+                "displayText": "hp dq5001tu",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+dq5001tu"
+            },
+            {
+                "text": "hp laptop 14s dq1100tu",
+                "displayText": "hp laptop 14s dq1100tu",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+laptop+14s+dq1100tu"
+            },
+            {
+                "text": "hp dq5001tu laptop price",
+                "displayText": "hp dq5001tu laptop price",
+                "webSearchUrl": "https://www.bing.com/search?q=hp+dq5001tu+laptop+price"
+            }
+        ]
+    },
+    "rankingResponse": {
+        "mainline": {
+            "items": [
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 1,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 2,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 3,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 4,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+                    }
+                },
+                {
+                    "answerType": "RelatedSearches",
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+                    }
+                }
+            ]
+        }
+    }
+}

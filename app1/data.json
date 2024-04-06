@@ -1,0 +1,54 @@
+{
+    "RG4070-17UA21": {
+        "processorBrand": "Intel",
+        "processorNumber": "i7-13620H",
+        "operatingSystem": "Windows 11 Home",
+        "oemName": "Dream Machines",
+        "formFactor": "laptop",
+        "storageType": "SSD",
+        "storageSize": "1024 GB",
+        "screenSize": "17.3",
+        "gpuQuantity": 1,
+        "gpuType": "discrete",
+        "gpu_model_number": "RTX 4070"
+    },
+    "TGMSETRTA3704BM": {
+        "processorBrand": "Intel",
+        "processorNumber": "i5 12400KF",
+        "operatingSystem": "Windows 11 Home",
+        "oemName": "CLX",
+        "formFactor": "mini-tower",
+        "storageType": "SSD and HDD",
+        "storageSize": "2TB",
+        "screenSize": "14",
+        "gpuQuantity": "1",
+        "gpuType": "discrete",
+        "gpu_model_number": "RTX 4060"
+    },
+    "TGMSETRTA3503BM": {
+        "processorBrand": "AMD",
+        "processorNumber": "Ryzen 7 7700X",
+        "operatingSystem": "Windows 11 Home 64-bit",
+        "oemName": "CLX",
+        "formFactor": "Mid-tower",
+        "storageType": "Hybrid",
+        "storageSize": "1TB SSD + 2TB HDD",
+        "screenSize": "13.5",
+        "gpuQuantity": "1",
+        "gpuType": "Discrete",
+        "gpu_model_number": "GeForce RTX 4060 Ti"
+    },
+    "CBXUS190004": {
+        "processorBrand": "Intel",
+        "processorNumber": "i7-10610U",
+        "operatingSystem": "Chrome OS",
+        "oemName": "CTL",
+        "formFactor": "Chromebox",
+        "storageType": "Flash Memory",
+        "storageSize": "128 GB",
+        "screenSize": "null",
+        "gpuQuantity": "1",
+        "gpuType": "Integrated",
+        "gpu_model_number": "UHD Graphics"
+    }
+}

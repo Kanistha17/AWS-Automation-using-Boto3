@@ -1,0 +1,6 @@
+boto3
+trafilatura
+requests
+pandas
+streamlit
+python-dotenv

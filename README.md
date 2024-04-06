@@ -1,1 +1,1 @@
-# AWS-Automation-using-Boto3
+# AWS-Resources-Automation
